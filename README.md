@@ -3,7 +3,7 @@
 
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://lucasevangelistaa.github.io/portfolio)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-evangelista-214116242/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitehttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/lucassss.lc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitehttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucassss.lc)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucassssdev)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasevangelistaa&show_icons=true&theme=dracula)

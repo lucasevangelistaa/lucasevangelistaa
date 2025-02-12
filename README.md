@@ -2,7 +2,7 @@
 ### Olá,  Eu sou o Lucas Evangelista 🖖🏾🤓
 
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://lucasevangelistaa.github.io/portfolio)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-evangelista-214116242/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas1108/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitehttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucassss.lc)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucassssdev)
 
@@ -23,4 +23,4 @@
 
 ![Skill-sets](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasevangelistaa&hide_progress=compact)
 
-Estou atualmente no 3º ano do ensino médio técnico em informática e atuo como Desenvolvedor Front-end. Meu tempo livre é dedicado aos estudos em programação e também trabalho como Freelancer. Ao longo do tempo, tive a oportunidade de realizar diversos projetos, que envolvem Desenvolvimento web e criação de sites e páginas interativas.
+Sou acadêmico em Análise e Desenvolvimento de Sistemas, com formação técnica em Informática pelo IFMA. Tenho uma grande paixão pela área de Tecnologia da Informação e programação, com foco no desenvolvimento Front-end. Busco constantemente aprender novas tecnologias e melhorar minhas habilidades, criando soluções inovadoras e de qualidade. Com uma base sólida de conhecimento e a vontade de sempre evoluir, estou em busca de oportunidades para aplicar meus conhecimentos e contribuir para o crescimento de projetos na área de desenvolvimento de sistemas.
